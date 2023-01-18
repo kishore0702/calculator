@@ -1,0 +1,46 @@
+#head1{
+    text-align: center;
+    
+}
+
+#body{
+    margin-left: 580px;
+    width: 350px;
+    height: 500px;
+    background-color: rgb(242, 238, 232);
+}
+
+#input{
+    margin-left: 30px;
+    margin-top:20px;
+    margin-bottom: 13px;
+    width: 280px;
+    height: 50px;
+    background-color: rgb(199, 195, 195);
+  
+}
+
+th,td{
+    padding: 12px;
+    
+}
+
+#equal{
+    background-color: rgb(106, 106, 248);
+     text-align: center ;
+     width: 130px;
+    
+}
+
+#c{
+   color: rgb(250, 44, 44);
+}
+table ,thead{
+   margin-left: 20px;
+   
+}
+
+button{
+    width: 50px;
+    height: 55px;
+}
